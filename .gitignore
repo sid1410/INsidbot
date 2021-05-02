@@ -1,0 +1,10 @@
+*.iml
+*.cfg
+/.idea/
+/out
+/__pycache__/
+*.db
+*.sqbpro
+*.pyc
+*.exe
+venv
